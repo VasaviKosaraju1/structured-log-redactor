@@ -1,0 +1,1 @@
+{"event": "login", "user": {"email": "demo@example.invalid", "name": "Demo"}, "Authorization": "FAKE_EXAMPLE_TOKEN", "attempts": [{"password": "FAKE_EXAMPLE_PASSWORD", "success": true}]}
